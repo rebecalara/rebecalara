@@ -1,5 +1,5 @@
 # 👋🏻 Hi there !! 
- I'm Rebeca Lara, a Software Engineer student, a passionate software developer and tech enthusiast. Currently, I work as IT Assistant at 300 Franchising. I'm studying and explore new technologies!
+ I'm Rebeca Lara, a Software Engineer student, a passionate software developer and tech enthusiast. Currently, I work as IT Technician. I'm studying and explore new technologies!
  
  ## 👩‍🎓 About me
 <p>I'm a beginner and I know I have much more to learn, such as Clean Clode and learning about more technologies.</p>
